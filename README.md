@@ -1,6 +1,4 @@
 # OFF-B-NILNA-INAYATAN-230331604444
-Web game learning
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
